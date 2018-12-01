@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "16419131-3b38-4308-a152-c7c09244c515",
+            "Value": {
+                "id": "fcce2278-9f58-4f14-abb8-fd157f3dcc50",
+                "resourcePath": "scripts\\move_chaser\\move_chaser.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2026fca0-80a8-4d14-be17-180307a06f60",
             "Value": {
                 "id": "c20cf259-f14e-4ce3-b0d8-0026762de4cb",
@@ -100,6 +108,14 @@
                 "id": "50f43efc-effc-4974-b89a-ed6baa2dc6ac",
                 "resourcePath": "views\\236cb749-37a3-4d46-8bce-1f41d2a48de3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "22fece4d-8760-4bfb-994d-8d0eb13cb8a7",
+            "Value": {
+                "id": "8dd19ccc-d7ad-4cbd-96dc-2897d0c5fbf3",
+                "resourcePath": "sprites\\s_chaser\\s_chaser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -163,6 +179,14 @@
             "Value": {
                 "id": "d7f91cc4-ba73-4f1f-b41b-d1bab306b443",
                 "resourcePath": "views\\605fc091-9fa3-4c55-8cd5-09427e1fd3b6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "611fd615-1cd6-4a7a-9ed5-c3a1a3ddc30f",
+            "Value": {
+                "id": "7f0edcf5-acdc-47d5-a051-5beeb4238ab4",
+                "resourcePath": "views\\611fd615-1cd6-4a7a-9ed5-c3a1a3ddc30f.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -260,6 +284,14 @@
                 "id": "e8f0642b-9fc7-4e00-85fa-9c23fe0ff491",
                 "resourcePath": "views\\91867ee5-3027-4297-9819-6072aeba8066.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "94566766-2aa5-4d27-a1cb-9e890bad95c1",
+            "Value": {
+                "id": "0aee1f04-7454-4a4f-b4b6-ef56443e9bf2",
+                "resourcePath": "objects\\o_chaser\\o_chaser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -401,6 +433,7 @@
     ],
     "script_order": [
         "7266bca3-a14c-4160-b01c-a031201024c0",
+        "16419131-3b38-4308-a152-c7c09244c515",
         "fb971e4a-9b06-4638-8acc-ebfdc083e3b4"
     ],
     "tutorial": ""
