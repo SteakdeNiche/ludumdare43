@@ -103,19 +103,27 @@
             }
         },
         {
-            "Key": "236cb749-37a3-4d46-8bce-1f41d2a48de3",
-            "Value": {
-                "id": "50f43efc-effc-4974-b89a-ed6baa2dc6ac",
-                "resourcePath": "views\\236cb749-37a3-4d46-8bce-1f41d2a48de3.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "22fece4d-8760-4bfb-994d-8d0eb13cb8a7",
             "Value": {
                 "id": "8dd19ccc-d7ad-4cbd-96dc-2897d0c5fbf3",
                 "resourcePath": "sprites\\s_chaser\\s_chaser.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "231eb3c9-c61e-4df3-9fe0-af7f706fbbd5",
+            "Value": {
+                "id": "6bc0774d-b3e1-45ef-b4af-bfd1ed65d9c8",
+                "resourcePath": "rooms\\r_matteus\\r_matteus.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "236cb749-37a3-4d46-8bce-1f41d2a48de3",
+            "Value": {
+                "id": "50f43efc-effc-4974-b89a-ed6baa2dc6ac",
+                "resourcePath": "views\\236cb749-37a3-4d46-8bce-1f41d2a48de3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "7e445e13-e584-4d84-94aa-7a730945306b",
+            "Value": {
+                "id": "289c0b9f-0286-4061-80ae-2e14318aa9fb",
+                "resourcePath": "rooms\\r_steak\\r_steak.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "81fbfde7-d5bb-4bd9-b050-9cad39079e5c",
             "Value": {
                 "id": "2d374d6c-7cb4-4742-a8f4-83bfbda085e1",
@@ -348,6 +364,14 @@
                 "id": "8bcf444d-3413-4cfa-abc4-8b09c43fad7c",
                 "resourcePath": "extensions\\extension0\\extension0.yy",
                 "resourceType": "GMExtension"
+            }
+        },
+        {
+            "Key": "bbc95712-8712-4f3a-af56-65257d1deaa2",
+            "Value": {
+                "id": "f7cf3638-320f-42c3-8a4b-d56addf1bb82",
+                "resourcePath": "rooms\\r_korbraan\\r_korbraan.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
