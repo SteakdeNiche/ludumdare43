@@ -11,28 +11,28 @@ var attack = o_input.attack;
 switch (state) {
 	#region move state
 	case player.moving:
-		// Y - Movement
+		#region Y - Movement
 		if (!place_meeting(x, y + 1, o_solid)) {
 			yspeed += gravity_acceleration
-		
-			//Control the jump height
+			
+			// control height jump
 			if (up_release and yspeed < -6) {
 				yspeed = -3
 			}
 		}
 		else {
-			yspeed = 0;
-		
-			//Jumping code
+			yspeed = 0
 			if (up) {
 				yspeed = jump_height
 			}
 		}
+		#endregion
 
-	
-		// X - Change direction of sprites
+
+		#region X - Movement
 		if (xspeed != 0) {
 			image_xscale = sign(xspeed);
+			move_background(sign(-xspeed))
 		}
 		// X - Move right or left
 		if (right or left) {
@@ -40,8 +40,10 @@ switch (state) {
 			xspeed = clamp(xspeed, -max_speed, max_speed);
 		}
 		else {
+			move_background(0)
 			apply_friction(acceleration);
 		}
+		#endregion
 		
 		// Move the person
 		move(o_solid)

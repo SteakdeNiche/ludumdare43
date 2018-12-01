@@ -11,7 +11,7 @@ switch (state) {
 		} else {
 			image_speed = 0
 			image_index = 0
-			if (action && playerCollision) {
+			if (action and playerCollision) {
 				state = merchant.selling
 				audio_play_sound(a_merchant_welcome, 4, false)
 			}
