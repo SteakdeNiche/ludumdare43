@@ -9,3 +9,8 @@ if (room == r_title) {
 	draw_text_colour(room_width / 2 + 1, room_height - 48 + 1, "Appuyez sur espace pour commencer", c_black, c_black, c_black, c_black, 0.7);
 	draw_text_colour(room_width / 2, room_height - 48, "Appuyez sur espace pour commencer", c_white, c_white, c_white, c_white, 1);
 }
+
+if (room != r_title) {
+	draw_rectangle_color(9, 9, 211, 21, c_black, c_black, c_black, c_black, false)
+	draw_rectangle_color(10, 10, 210 * o_player_stats.blood / 100, 20, c_red, c_red, c_red, c_red, false)
+}
