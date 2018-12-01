@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "5b6521de-8b98-43c3-9f94-0e421a0b689e",
+            "Value": {
+                "id": "c394c4b6-9eac-4ce4-aab7-524d10aa57b6",
+                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f794698-c148-445b-bd9d-3d8b6b7bf7b2",
             "Value": {
                 "id": "7359062e-c130-425e-b333-9a971fb9e7b5",
@@ -284,6 +292,14 @@
                 "id": "e20c05f2-ddd6-4339-ab48-88d63e433774",
                 "resourcePath": "views\\aeb6eff3-1262-4c88-be41-2df299e0bd87.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0885e67-b22d-4271-91db-1ce0de43d906",
+            "Value": {
+                "id": "ea071fd7-287c-4a83-838e-d5d4d971aa4e",
+                "resourcePath": "objects\\o_chaser_blood\\o_chaser_blood.yy",
+                "resourceType": "GMObject"
             }
         },
         {

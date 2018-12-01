@@ -1,6 +1,6 @@
 /// @description Initialisation variable du héro
 
-hp = 50
+blood = 50
 attack = 0
 defense = 0
 

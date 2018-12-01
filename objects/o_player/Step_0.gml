@@ -5,6 +5,7 @@ var left = o_input.left
 var up = o_input.up
 var down = o_input.down
 var up_release = o_input.up_release
+var attack = o_input.attack;
 
 #region State machine
 switch (state) {
@@ -48,4 +49,15 @@ switch (state) {
 	#endregion
 
 }
+#endregion
+
+#region Enemy encounter
+var range = 5;
+if (attack) {
+	if (distance_to_object(o_enemy) < range) {
+		if (o_enemy.state != o_enemy.State.dead) {
+			o_enemy.state = o_enemy.State.dead;
+		}
+	}
+}	
 #endregion
