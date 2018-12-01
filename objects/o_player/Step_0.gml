@@ -54,10 +54,10 @@ switch (state) {
 #region Enemy encounter
 var range = 5;
 if (attack) {
-	if (distance_to_object(o_enemy) < range) {
+/*	if (distance_to_object(o_enemy) < range) {
 		if (o_enemy.state != o_enemy.State.dead) {
 			o_enemy.state = o_enemy.State.dead;
 		}
-	}
-}	
+	}*/
+}
 #endregion
