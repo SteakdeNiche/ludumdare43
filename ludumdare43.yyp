@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "8026565c-2372-4737-8e44-c0808a05494a",
+            "Value": {
+                "id": "b1b9b958-6910-4c76-9408-1a2dd1fb3c9e",
+                "resourcePath": "sprites\\s_spell_splash\\s_spell_splash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "81fbfde7-d5bb-4bd9-b050-9cad39079e5c",
             "Value": {
                 "id": "2d374d6c-7cb4-4742-a8f4-83bfbda085e1",
@@ -372,6 +380,14 @@
                 "id": "4a27cd9b-9c5d-483b-b392-b53025fe9bfa",
                 "resourcePath": "sprites\\s_r_one_forest\\s_r_one_forest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8579586d-ae87-4f19-b40f-1dfad1b2ad4e",
+            "Value": {
+                "id": "732f7cc7-a9e8-4fc5-a570-2f4645c95067",
+                "resourcePath": "views\\8579586d-ae87-4f19-b40f-1dfad1b2ad4e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -519,6 +535,14 @@
             }
         },
         {
+            "Key": "cafb112b-16c0-48f9-8889-d84f359c4bbe",
+            "Value": {
+                "id": "611ab5cf-0dfa-4fb6-9399-75b0cb1653dd",
+                "resourcePath": "sprites\\s_spell_arrow\\s_spell_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "beeec25e-a88c-43d2-aef9-0a644e224a15",
@@ -571,6 +595,14 @@
             "Value": {
                 "id": "ac8291fd-d785-4518-889d-4ed88087c706",
                 "resourcePath": "sprites\\s_undead_walk\\s_undead_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e133d5d4-7be7-431a-85aa-70e55b2e8b48",
+            "Value": {
+                "id": "8429626a-eba4-48d0-99d3-05680c51836d",
+                "resourcePath": "sprites\\s_spell_cut\\s_spell_cut.yy",
                 "resourceType": "GMSprite"
             }
         },
